@@ -86,8 +86,6 @@ public class Principal {
         System.out.println("Unidades disponíveis: CELSIUS, FAHRENHEIT e KELVIN.");
         System.out.println("Passo a passo: \n1. Insira a quantidade de temperaturas que deseja converter; \n2. Digite o nome das unidades de entrada e saída da conversão; \n3. Insira o(s) valor(es) da(s) temperatura(s). ");
         System.out.println("O resultado será impresso logo abaixo, bem como as médias da(s) temperatura(s) de entrada e saída.");
-        System.out.println("Para continuar digite 1 e para sair digite 1\n");
-
     }
 
     private static int getInt() {
